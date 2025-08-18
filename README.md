@@ -1,1 +1,24 @@
 # Student-Grade-Tracker
+
+Student Grade Manager (Java)
+
+A simple Java application to manage student grades using ArrayList.
+It allows you to add, update, delete, and list students along with their scores, and provides a summary report showing:
+
+Total number of students
+
+Average score
+
+Highest score (with student name)
+
+Lowest score (with student name)
+
+Features
+
+Console-based (or GUI-based with Swing if using the GUI version)
+
+User-friendly menu-driven interface
+
+Calculates average, highest, and lowest scores
+
+Supports multiple students with duplicate scores
