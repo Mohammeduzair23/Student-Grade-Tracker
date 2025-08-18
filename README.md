@@ -14,7 +14,7 @@ It allows you to add, update, delete, and list students along with their scores,
 
 # Features
 
-• Console-based (or GUI-based with Swing if using the GUI version)
+• GUI-based with Swing (java)
 
 • User-friendly menu-driven interface
 
