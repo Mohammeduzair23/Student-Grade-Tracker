@@ -33,7 +33,7 @@ It allows you to add, update, delete, and list students along with their scores,
 
 # For GUI version:
 
-javac GradeManagerGUI.java
+javac GradeManagerGUI.java /n
 java GradeManagerGUI
 
 # Requirements
